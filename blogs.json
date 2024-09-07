@@ -4,12 +4,12 @@
   "blogs": [
     {
       "id": 0,
-      "titleSr": "",
-      "titleBa": "",
-      "descSr": "",
-      "descBa": "",
-      "authorName": "",
-      "authorInfo": "",
+      "titleSr": "Title sorani",
+      "titleBa": "Title badini",
+      "descSr": "description sorani",
+      "descBa": "description badini",
+      "authorName": "Miran",
+      "authorInfo": "miran",
       "coverpic": "https://i.imgur.com/JCoikLR.gif",
       "active": false,
       "deleted": false,
