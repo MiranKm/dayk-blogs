@@ -3,7 +3,7 @@
   "records": 1,
   "blogs": [
     {
-      "id": "",
+      "id": 0,
       "titleSr": "",
       "titleBa": "",
       "descSr": "",
@@ -13,10 +13,10 @@
       "coverpic": "",
       "active": false,
       "deleted": false,
-      "createdAt": "",
-      "createdBy": "",
-      "updatedBy": "",
-      "viewCount": ""
+      "createdAt": null,
+      "createdBy": null,
+      "updatedBy": null,
+      "viewCount": 0
     }
   ]
 }
