@@ -1,1 +1,22 @@
-
+{
+  "pages": 1,
+  "records": 1,
+  "blogs": [
+    {
+      "id": "",
+      "titleSr": "",
+      "titleBa": "",
+      "descSr": "",
+      "descBa": "",
+      "authorName": "",
+      "authorInfo": "",
+      "coverpic": "",
+      "active": "",
+      "deleted": "",
+      "createdAt": "",
+      "createdBy": "",
+      "updatedBy": "",
+      "viewCount": ""
+    }
+  ]
+}
